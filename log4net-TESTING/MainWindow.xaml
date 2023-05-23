@@ -7,10 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="Btn1" Content="Button1" HorizontalAlignment="Left" Height="56" Margin="66,59,0,0" VerticalAlignment="Top" Width="192" Click="Btn1_Click"/>
-        <Button x:Name="Btn2" Content="Button2" HorizontalAlignment="Left" Height="56" Margin="336,59,0,0" VerticalAlignment="Top" Width="192" Click="Btn2_Click"/>
-        <Button x:Name="Btn3" Content="Button3" HorizontalAlignment="Left" Height="56" Margin="66,167,0,0" VerticalAlignment="Top" Width="192" Click="Btn3_Click"/>
-        <Button x:Name="Btn4" Content="Button4" HorizontalAlignment="Left" Height="56" Margin="336,167,0,0" VerticalAlignment="Top" Width="192" Click="Btn4_Click"/>
+        <Button x:Name="Btn1" Content="Button1 - INFO" HorizontalAlignment="Left" Height="56" Margin="66,59,0,0" VerticalAlignment="Top" Width="192" Click="Btn1_Click"/>
+        <Button x:Name="Btn2" Content="Button2 - WARN" HorizontalAlignment="Left" Height="56" Margin="336,59,0,0" VerticalAlignment="Top" Width="192" Click="Btn2_Click"/>
+        <Button x:Name="Btn3" Content="Button3 - ERROR" HorizontalAlignment="Left" Height="56" Margin="66,167,0,0" VerticalAlignment="Top" Width="192" Click="Btn3_Click"/>
+        <Button x:Name="Btn4" Content="Button4 - FATAL" HorizontalAlignment="Left" Height="56" Margin="336,167,0,0" VerticalAlignment="Top" Width="192" Click="Btn4_Click"/>
         <Label x:Name="Label1" Content="" HorizontalAlignment="Left" Height="29" Margin="66,286,0,0" VerticalAlignment="Top" Width="282" Background="#00000000"/>
 
     </Grid>

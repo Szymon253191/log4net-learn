@@ -1,6 +1,0 @@
-2023-05-23 14:54:30,602(ABSOLUTE) [C:\Users\rozmyslowski\Desktop\PiaskownicaKodowa\log4net-TESTING\log4net-TESTING\MainWindow.xaml.cs] INFO - INITIALIZATION
-2023-05-23 14:54:41,761(ABSOLUTE) [C:\Users\rozmyslowski\Desktop\PiaskownicaKodowa\log4net-TESTING\log4net-TESTING\MainWindow.xaml.cs] INFO - Button2 clicked
-2023-05-23 14:54:42,404(ABSOLUTE) [C:\Users\rozmyslowski\Desktop\PiaskownicaKodowa\log4net-TESTING\log4net-TESTING\MainWindow.xaml.cs] INFO - Button1 clicked
-2023-05-23 14:54:42,537(ABSOLUTE) [C:\Users\rozmyslowski\Desktop\PiaskownicaKodowa\log4net-TESTING\log4net-TESTING\MainWindow.xaml.cs] INFO - Button1 clicked
-2023-05-23 14:54:42,797(ABSOLUTE) [C:\Users\rozmyslowski\Desktop\PiaskownicaKodowa\log4net-TESTING\log4net-TESTING\MainWindow.xaml.cs] INFO - Button2 clicked
-2023-05-23 14:54:42,935(ABSOLUTE) [C:\Users\rozmyslowski\Desktop\PiaskownicaKodowa\log4net-TESTING\log4net-TESTING\MainWindow.xaml.cs] INFO - Button2 clicked
