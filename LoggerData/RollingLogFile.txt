@@ -1,4 +1,4 @@
-2023-05-23 15:55:58,120(ABSOLUTE) [C:\Users\rozmyslowski\Documents\GitHub\log4net-learn\log4net-TESTING\MainWindow.xaml.cs] INFO - INITIALIZATION
-2023-05-23 15:55:58,983(ABSOLUTE) [C:\Users\rozmyslowski\Documents\GitHub\log4net-learn\log4net-TESTING\MainWindow.xaml.cs] INFO - Button1 clicked
-2023-05-23 15:55:59,225(ABSOLUTE) [C:\Users\rozmyslowski\Documents\GitHub\log4net-learn\log4net-TESTING\MainWindow.xaml.cs] WARN - Button2 clicked
-2023-05-23 15:55:59,527(ABSOLUTE) [C:\Users\rozmyslowski\Documents\GitHub\log4net-learn\log4net-TESTING\MainWindow.xaml.cs] ERROR - Button3 clicked
+2023-05-24 09:12:57,919(ABSOLUTE) [C:\Users\rozmyslowski\Documents\GitHub\log4net-learn\log4net-TESTING\Program.cs] INFO - Button1 clicked
+2023-05-24 09:12:58,103(ABSOLUTE) [C:\Users\rozmyslowski\Documents\GitHub\log4net-learn\log4net-TESTING\Program.cs] WARN - Button2 clicked
+2023-05-24 09:12:58,650(ABSOLUTE) [C:\Users\rozmyslowski\Documents\GitHub\log4net-learn\log4net-TESTING\Program.cs] ERROR - Button3 clicked
+2023-05-24 09:12:58,910(ABSOLUTE) [C:\Users\rozmyslowski\Documents\GitHub\log4net-learn\log4net-TESTING\Program.cs] FATAL - Button4 clicked
